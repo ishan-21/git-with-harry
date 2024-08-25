@@ -1,3 +1,4 @@
 *.txt
 mylogs.log
 /IgnoreThisFolder
+/git-ss
